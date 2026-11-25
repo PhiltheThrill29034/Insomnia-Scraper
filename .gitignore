@@ -1,0 +1,4 @@
+devlog.md
+__pycache__/
+*.py
+*$py.class
